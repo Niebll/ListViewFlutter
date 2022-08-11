@@ -18,7 +18,7 @@ List<siswaname> siswalist = [
   siswaname("Bhre Nabil", "BN", "Bogor"),
   siswaname("Bimo Adi", "BA", "Cikarang"),
   siswaname("Nadhif Ariq", "NA", " Sangatta"),
-  siswaname("Danar Gading", "L", "Jakarta Timur"),
+  siswaname("Danar Gading", "DG", "Jakarta Timur"),
   siswaname("Dimas Bagus ", "DB", "Kudus"),
   siswaname("Riko Aditya", "RA", "Temanggung"),
   siswaname("Hegel Al Rafli", "HA", "Temanggung"),
